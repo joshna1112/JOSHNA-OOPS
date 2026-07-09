@@ -1,0 +1,11 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    cout << "Hello World" << endl;
+    cout << "Johara" << endl;
+    cout << "Computer Science and Engineering (CSE)" << endl;
+    cout << "Second Year" << endl;
+
+    return 0;
+}
